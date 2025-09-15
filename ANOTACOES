@@ -1,0 +1,8 @@
+
+
+ CAMINHO DOCKER:   cd C:\Users\luiz.henrique\Desktop\ProjectsJava\avaliacao
+
+
+ COMANDO PARA RODAR : docker-compose up -d
+
+ COMANDO PARA PARAR : docker-compose down
